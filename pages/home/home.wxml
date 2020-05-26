@@ -1,2 +1,9 @@
 <!--pages/home/home.wxml-->
 <text class="title">Hello Word</text>
+<view>tag_1</view>
+<view>tag_1</view>
+<view>tag_1</view>
+<view>tag_1</view>
+<view>tag_1</view>
+
+

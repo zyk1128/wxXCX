@@ -1,14 +1,11 @@
-// pages/home/home.js
-
-
-// 注册一个页面：
+// pages/category/categorg.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    name:"草莓大侠"
+
   },
 
   /**
@@ -29,7 +26,7 @@ Page({
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
- 
+
   },
 
   /**
@@ -65,5 +62,5 @@ Page({
    */
   onShareAppMessage: function () {
 
-  },
+  }
 })
